@@ -15,7 +15,3 @@ Buy more coffee filters, down to the last one.
 ---
 
 Balcony idea: small herb pots, basil and mint at least.
-
----
-
-Forgot to ask the dentist about the appointment time change, call back tomorrow.
