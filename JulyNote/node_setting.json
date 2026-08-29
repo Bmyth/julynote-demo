@@ -18,5 +18,24 @@
   },
   "Nodes/Apartment Hunting.md": {
     "icon": "🏠"
+  },
+  "JulyNote/Nodes/Recipes.md": {
+    "icon": "🍔"
+  },
+  "JulyNote/Nodes/Kyoto Trip.md": {
+    "icon": "🏖"
+  },
+  "JulyNote/Nodes/Book List.md": {
+    "icon": "🏷"
+  },
+  "JulyNote/Nodes/Gift Ideas.md": {
+    "icon": "💡",
+    "quick_access": "true"
+  },
+  "JulyNote/Nodes/Apartment Hunting.md": {
+    "icon": "⚠"
+  },
+  "JulyNote/Nodes/Journal.md": {
+    "icon": "🟢"
   }
 }
