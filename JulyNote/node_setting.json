@@ -31,5 +31,8 @@
   "JulyNote/Nodes/Gift Ideas.md": {
     "icon": "💡",
     "quick_access": "true"
+  },
+  "JulyNote/Nodes/Apartment Hunting.md": {
+    "icon": "🔵"
   }
 }
