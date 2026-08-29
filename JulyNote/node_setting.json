@@ -1,41 +1,22 @@
 {
-  "Nodes/Journal.md": {
+  "JulyNote/Nodes/Journal.md": {
     "icon": "📓",
     "quick_access": "true"
   },
-  "Nodes/Recipes.md": {
+  "JulyNote/Nodes/Recipes.md": {
     "icon": "🍳",
     "quick_access": "true"
   },
-  "Nodes/Kyoto Trip.md": {
+  "JulyNote/Nodes/Kyoto Trip.md": {
     "icon": "✈️"
   },
-  "Nodes/Book List.md": {
+  "JulyNote/Nodes/Book List.md": {
     "icon": "📚"
   },
-  "Nodes/Gift Ideas.md": {
+  "JulyNote/Nodes/Gift Ideas.md": {
     "icon": "🎁"
   },
-  "Nodes/Apartment Hunting.md": {
-    "icon": "🏠"
-  },
-  "JulyNote/Nodes/Recipes.md": {
-    "icon": "🍔"
-  },
-  "JulyNote/Nodes/Kyoto Trip.md": {
-    "icon": "🏖"
-  },
-  "JulyNote/Nodes/Book List.md": {
-    "icon": "🏷"
-  },
-  "JulyNote/Nodes/Gift Ideas.md": {
-    "icon": "💡",
-    "quick_access": "true"
-  },
   "JulyNote/Nodes/Apartment Hunting.md": {
-    "icon": "⚠"
-  },
-  "JulyNote/Nodes/Journal.md": {
-    "icon": "🟢"
+    "icon": "🏠"
   }
 }
