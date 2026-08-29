@@ -29,6 +29,7 @@
     "icon": "🏷"
   },
   "JulyNote/Nodes/Gift Ideas.md": {
-    "icon": "💡"
+    "icon": "💡",
+    "quick_access": "true"
   }
 }
