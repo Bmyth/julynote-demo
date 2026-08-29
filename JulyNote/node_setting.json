@@ -1,0 +1,22 @@
+{
+  "Nodes/Journal.md": {
+    "icon": "📓",
+    "quick_access": "true"
+  },
+  "Nodes/Recipes.md": {
+    "icon": "🍳",
+    "quick_access": "true"
+  },
+  "Nodes/Kyoto Trip.md": {
+    "icon": "✈️"
+  },
+  "Nodes/Book List.md": {
+    "icon": "📚"
+  },
+  "Nodes/Gift Ideas.md": {
+    "icon": "🎁"
+  },
+  "Nodes/Apartment Hunting.md": {
+    "icon": "🏠"
+  }
+}
