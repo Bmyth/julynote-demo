@@ -10,7 +10,8 @@
     "icon": "✈️"
   },
   "JulyNote/Nodes/Book List.md": {
-    "icon": "📚"
+    "icon": "📚",
+    "quick_access": "true"
   },
   "JulyNote/Nodes/Gift Ideas.md": {
     "icon": "💡",
