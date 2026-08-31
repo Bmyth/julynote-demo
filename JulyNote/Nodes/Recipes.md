@@ -10,12 +10,6 @@ Stuff cavity with lemon and herbs, rub skin with oil and salt, roast at 200°C f
 
 ---
 
-Simple Tomato Soup
-4 ripe tomatoes, 1 onion, 2 cloves garlic, vegetable stock, basil, cream (optional).
-Sauté onion and garlic, add chopped tomatoes and stock, simmer 20 min, blend smooth, swirl in cream to finish.
-
----
-
 Banana Bread
 3 ripe bananas, 1/3 cup melted butter, 3/4 cup sugar, 1 egg, 1 tsp vanilla, 1 tsp baking soda, pinch of salt, 1.5 cups flour.
 Mash bananas, mix in wet ingredients, fold in dry. Bake at 175°C for 55-60 min.
