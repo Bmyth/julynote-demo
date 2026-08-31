@@ -4,17 +4,6 @@ Boil pasta. Melt butter, sauté garlic until fragrant, toss pasta in, top with p
 
 ---
 
-Weekend Pancakes
-1 cup flour, 1 egg, 3/4 cup milk, 1 tbsp sugar, pinch of salt, 1 tsp baking powder.
-Mix wet and dry separately, then combine — don't overmix. Cook on medium, flip once bubbles form on top.
-
----
-
-Fried Rice with leftover rice
-Day-old rice works best. Fry with egg, scallions, soy sauce, a splash of sesame oil. Five minutes and it's done — good for lazy nights.
-
----
-
 Lemon Herb Roast Chicken
 Whole chicken, 1 lemon (halved), garlic, rosemary, thyme, olive oil, salt, pepper.
 Stuff cavity with lemon and herbs, rub skin with oil and salt, roast at 200°C for about 75 minutes. Rest 10 min before carving.
@@ -24,12 +13,6 @@ Stuff cavity with lemon and herbs, rub skin with oil and salt, roast at 200°C f
 Simple Tomato Soup
 4 ripe tomatoes, 1 onion, 2 cloves garlic, vegetable stock, basil, cream (optional).
 Sauté onion and garlic, add chopped tomatoes and stock, simmer 20 min, blend smooth, swirl in cream to finish.
-
----
-
-Miso Soup (quick version)
-Dashi packet, miso paste, tofu cubes, scallions, wakame.
-Heat dashi, whisk in miso off the heat so it doesn't lose flavor, add tofu and wakame, top with scallions.
 
 ---
 
