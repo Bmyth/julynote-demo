@@ -3,7 +3,7 @@ water trick
 ---
 
 Garlic Butter Pasta
-200g spaghetti, 3 cloves garlic (minced), 40g butter, parmesan, chili flakes, parsley.
+250g spaghetti, 3 cloves garlic (minced), 40g butter, parmesan, chili flakes, parsley.
 Boil pasta. Melt butter, sauté garlic until fragrant, toss pasta in, top with parmesan and chili flakes.
 
 ---
