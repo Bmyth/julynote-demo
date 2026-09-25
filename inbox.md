@@ -1,7 +1,3 @@
-pastes
-
----
-
 New ramen place near the station — try it this week.
 
 ---
