@@ -1,26 +1,21 @@
-workflow
-yolo still not work
-try chatgpt
-
-reddit group
-r/secondbrain
-r/selfhosted
+New ramen place near the station — try it this week.
 
 ---
 
-Julynote
-next publish
-timeline 好像没及时更新
+Idea: one-line-a-day journal, just to see the weeks stack up.
 
 ---
 
-work
-MX
-UX sso demo - 4pm
-UX trans + twiggy
-OA demo script - jacky
-etl to all interface x ti
+Dentist appointment — book it, stop putting it off.
 
 ---
 
-save the tree
+Café song from this morning — add to a playlist before I forget.
+
+---
+
+Ask Sam about the book they mentioned at lunch.
+
+---
+
+Water the plants this weekend, the monstera looks dramatic.
