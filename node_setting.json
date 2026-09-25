@@ -1,0 +1,12 @@
+{
+  "Journal.md": { "icon": "🚗" },
+  "Recipes.md": { "icon": "🔍", "quick_access": "true" },
+  "Kyoto Trip.md": { "icon": "✈️", "quick_access": "true" },
+  "Later": { "icon": "🗂️", "quick_access": "true" },
+  "Later/Book List.md": { "icon": "📚" },
+  "Later/Gift Ideas.md": { "icon": "💡" },
+  "Later/Apartment Hunting.md": { "icon": "🏠" },
+  "Later/Movies to Watch.md": { "icon": "🎬" },
+  "Later/Restaurants to Try.md": { "icon": "🍜" },
+  "Later/Home Projects.md": { "icon": "🔨" }
+}

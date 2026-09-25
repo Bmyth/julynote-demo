@@ -1,1 +1,0 @@
-Rent's going up again in spring, might actually start looking instead of just complaining about it.
