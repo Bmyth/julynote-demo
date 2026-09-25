@@ -1,21 +1,26 @@
-Need to renew car registration before it expires end of next month.
+workflow
+yolo still not work
+try chatgpt
+
+reddit group
+r/secondbrain
+r/selfhosted
 
 ---
 
-Recipe idea: that miso caramel thing a friend sent a video of — file under Recipes later.
+Julynote
+next publish
+timeline 好像没及时更新
 
 ---
 
-Password manager subscription renews soon, check if still worth it.
+work
+MX
+UX sso demo - 4pm
+UX trans + twiggy
+OA demo script - jacky
+etl to all interface x ti
 
 ---
 
-Buy more coffee filters, down to the last one.
-
----
-
-Balcony idea: small herb pots, basil and mint at least.
-
----
-
-Forgot to ask the dentist about the appointment time change, call back tomorrow.
+save the tree
