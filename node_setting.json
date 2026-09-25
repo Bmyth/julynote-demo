@@ -32,6 +32,7 @@
     "icon": "🔨"
   },
   "Timeline": {
-    "quick_access": "true"
+    "quick_access": "true",
+    "icon": "🍜"
   }
 }
