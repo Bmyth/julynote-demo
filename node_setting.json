@@ -1,6 +1,7 @@
 {
   "Journal.md": {
-    "icon": "🚗"
+    "icon": "🚗",
+    "quick_access": "true"
   },
   "Kyoto Trip.md": {
     "icon": "✈️",
