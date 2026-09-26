@@ -1,3 +1,7 @@
+buy book
+
+---
+
 Rainy start today ☔️ Made coffee and just sat by the window for a bit before diving into work. Nice slow morning for once.
 
 ---
