@@ -30,5 +30,8 @@
   },
   "Timeline": {
     "icon": "📆"
+  },
+  "Recipes.md": {
+    "quick_access": "true"
   }
 }
