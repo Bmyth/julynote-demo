@@ -2,10 +2,6 @@ Flights booked! Departing Oct 12, back Oct 19. Direct flight, lands early mornin
 
 ---
 
-Packing list (draft): comfortable walking shoes, portable charger, light jacket for evenings, umbrella just in case.
-
----
-
 Still deciding on the ryokan — the one near the river or the one with the private onsen. Need to ask which one worked out better last time.
 
 ---
