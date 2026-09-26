@@ -1,6 +1,9 @@
 {
   "Journal.md": {
-    "icon": "🚗",
+    "icon": "🚗"
+  },
+  "Recipes.md": {
+    "icon": "🍜",
     "quick_access": "true"
   },
   "Kyoto Trip.md": {
@@ -8,7 +11,8 @@
     "quick_access": "true"
   },
   "Later": {
-    "icon": "🗂️"
+    "icon": "🗂️",
+    "quick_access": "true"
   },
   "Later/Book List.md": {
     "icon": "📚"
@@ -27,12 +31,5 @@
   },
   "Later/Home Projects.md": {
     "icon": "🔨"
-  },
-  "Timeline": {
-    "icon": "📆"
-  },
-  "Recipes.md": {
-    "quick_access": "true",
-    "icon": "🍜"
   }
 }
