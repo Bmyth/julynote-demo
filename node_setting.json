@@ -32,6 +32,7 @@
     "icon": "📆"
   },
   "Recipes.md": {
-    "quick_access": "true"
+    "quick_access": "true",
+    "icon": "🍜"
   }
 }
