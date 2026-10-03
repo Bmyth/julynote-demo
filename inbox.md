@@ -1,1 +1,1 @@
-# 
+Places to check out: Fushimi Inari early morning before the crowds, Arashiyama bamboo grove, that quiet tea house a friend recommended.
