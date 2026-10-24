@@ -1,5 +1,5 @@
 Garlic Butter Pasta
-250g spaghetti,  3 cloves garlic (minced), 40g butter, parmesan, chili flakes, parsley.
+220g spaghetti,  3 cloves garlic (minced), 40g butter, parmesan, chili flakes, parsley.
 Boil pasta. Melt butter, sauté garlic until fragrant, toss pasta in, top with parmesan and chili flakes.
 
 ---
@@ -34,7 +34,7 @@ Heat dashi, whisk in miso off the heat so it doesn't lose flavor, add tofu and w
 ---
 
 Banana Bread
-4 ripe bananas, 1/3 cup melted butter, 3/4 cup sugar, 1 egg, 1 tsp vanilla, 1 tsp baking soda, pinch of salt, 1.5 cups flour.
+3 ripe bananas, 1/3 cup melted butter, 3/4 cup sugar, 1 egg, 1 tsp vanilla, 1 tsp baking soda, pinch of salt, 1.5 cups flour.
 Mash bananas, mix in wet ingredients, fold in dry. Bake at 175°C for 55-60 min.
 
 ---
