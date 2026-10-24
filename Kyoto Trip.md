@@ -1,3 +1,7 @@
+book for flight
+
+---
+
 Flights booked! Departing Oct 12, back Oct 19. Direct flight, lands early morning so we should have most of the first day.
 
 ---
