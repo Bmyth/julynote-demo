@@ -22,7 +22,7 @@ Stuff cavity with lemon and herbs, rub skin with oil and salt, roast at 200°C f
 ---
 
 Simple Tomato Soup
-4 ripe tomatoes, 1 onion, 2 cloves garlic, vegetable stock, basil, cream (optional).
+5 ripe tomatoes, 1 onion, 2 cloves garlic, vegetable stock, basil, cream (optional).
 Sauté onion and garlic, add chopped tomatoes and stock, simmer 20 min, blend smooth, swirl in cream to finish.
 
 ---
