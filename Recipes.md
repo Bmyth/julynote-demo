@@ -4,12 +4,6 @@ Boil pasta. Melt butter, sauté garlic until fragrant, toss pasta in, top with p
 
 ---
 
-Weekend Pancakes
-1 cup flour, 1 egg, 3/4 cup milk, 1 tbsp sugar, pinch of salt, 1 tsp baking powder.
-Mix wet and dry separately, then combine — don't overmix. Cook on medium, flip once bubbles form on top.
-
----
-
 Fried Rice with leftover rice
 Day-old rice works best. Fry with egg, scallions, soy sauce, a splash of sesame oil. Five minutes and it's done — good for lazy nights.
 
