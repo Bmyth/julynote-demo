@@ -9,12 +9,6 @@ Day-old rice works best. Fry with egg, scallions, soy sauce, a splash of sesame 
 
 ---
 
-Lemon Herb Roast Chicken
-Whole chicken, 1 lemon (halved), garlic, rosemary, thyme, olive oil, salt, pepper.
-Stuff cavity with lemon and herbs, rub skin with oil and salt, roast at 200°C for about 75 minutes. Rest 10 min before carving.
-
----
-
 Simple Tomato Soup
 5 ripe tomatoes, 1 onion, 2 cloves garlic, vegetable stock, basil, cream (optional).
 Sauté onion and garlic, add chopped tomatoes and stock, simmer 20 min, blend smooth, swirl in cream to finish.
