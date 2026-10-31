@@ -1,3 +1,9 @@
+Weekend Pancakes
+1 cup flour, 1 egg, 3/4 cup milk, 1 tbsp sugar, pinch of salt, 1 tsp baking powder.
+Mix wet and dry separately, then combine — don't overmix. Cook on medium, flip once bubbles form on top.
+
+---
+
 Flights booked! Departing Oct 12, back Oct 19. Direct flight, lands early morning so we should have most of the first day.
 
 ---
