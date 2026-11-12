@@ -1,3 +1,9 @@
+Miso Soup (quick version)
+Dashi packet, miso paste, tofu cubes, scallions, wakame.
+Heat dashi, whisk in miso off the heat so it doesn't lose flavor, add tofu and wakame, top with scallions.
+
+---
+
 Lemon Herb Roast Chicken
 Whole chicken, 1 lemon (halved), garlic, rosemary, thyme, olive oil, salt, pepper.
 Stuff cavity with lemon and herbs, rub skin with oil and salt, roast at 200°C for about 75 minutes. Rest 10 min before carving.
