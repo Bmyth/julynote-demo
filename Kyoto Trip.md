@@ -1,3 +1,7 @@
+book for flight
+
+---
+
 Miso Soup (quick version)
 Dashi packet, miso paste, tofu cubes, scallions, wakame.
 Heat dashi, whisk in miso off the heat so it doesn't lose flavor, add tofu and wakame, top with scallions.
